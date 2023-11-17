@@ -2,6 +2,8 @@
 
 ## Veremos abaixo as ferramentas utilizadas
 
+!["UbuntuLogo"](./ubuntulogo.png)
+
 Foram usadas as seguintes ferramentas para o desenvolvimento da atividade:
     
 - Downland do sistema operacional linux
